@@ -1,0 +1,10 @@
+C:\Users\danii.мой\source\repos\praktika\praktika\bin\Debug\praktika.exe.config
+C:\Users\danii.мой\source\repos\praktika\praktika\bin\Debug\praktika.exe
+C:\Users\danii.мой\source\repos\praktika\praktika\bin\Debug\praktika.pdb
+C:\Users\danii.мой\source\repos\praktika\praktika\obj\Debug\praktika.csprojAssemblyReference.cache
+C:\Users\danii.мой\source\repos\praktika\praktika\obj\Debug\praktika.Form1.resources
+C:\Users\danii.мой\source\repos\praktika\praktika\obj\Debug\praktika.Properties.Resources.resources
+C:\Users\danii.мой\source\repos\praktika\praktika\obj\Debug\praktika.csproj.GenerateResource.cache
+C:\Users\danii.мой\source\repos\praktika\praktika\obj\Debug\praktika.csproj.CoreCompileInputs.cache
+C:\Users\danii.мой\source\repos\praktika\praktika\obj\Debug\praktika.exe
+C:\Users\danii.мой\source\repos\praktika\praktika\obj\Debug\praktika.pdb
